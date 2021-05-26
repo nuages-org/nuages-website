@@ -43,7 +43,7 @@
       </p>
 
       <p class="mt-5 max-w-md mx-auto flex justify-center md:mt-8 ">
-        <img src="/static/aws-certified-developer-associate.png" width="200" height="200" alt="" />
+        <img src="aws-certified-developer-associate.png" width="200" height="200" alt="" />
       </p>
     </div>
 
