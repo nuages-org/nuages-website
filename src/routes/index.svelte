@@ -36,11 +36,19 @@
         
       </div> -->
 
-      <p class="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl flex flex-col ">
+      <div class="mt-12 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-12 md:text-xl md:max-w-3xl flex flex-col ">
         <span class="font-bold text-indigo-600">Martin Massé</span>
         <a href="mailto:martin@nuages.org" class="hover:text-indigo-600">martin@nuages.org</a>
-        <a href="https://www.linkedin.com/in/martinmasse1402/" class="mt-3 hover:text-indigo-600"><i class="fab fa-linkedin fa-2x" ></i> </a>
-      </p>
+        <div>
+          <p class="mt-6 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl flex flex-row justify-center space-x-6 ">
+            <a href="https://www.linkedin.com/in/martinmasse1402/" class="mt-3 hover:text-indigo-600"><i class="fab fa-linkedin fa-2x" ></i> </a>
+            <a href="https://twitter.com/martin_masse_qc" class="mt-3 hover:text-indigo-600"><i class="fab fa-twitter fa-2x" ></i> </a>
+            <a href="https://github.com/martin-masse" class="mt-3 hover:text-indigo-600"><i class="fab fa-github fa-2x" ></i> </a>
+          </p>
+         
+        </div>
+       
+      </div>
 
       
 
