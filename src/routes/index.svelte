@@ -7,7 +7,7 @@
           </h1>
       <h1 class="text-2xl tracking-tight font-extrabold text-gray-900 sm:text-3xl md:text-4xl">
        
-        <span class="block text-indigo-600 xl:inline">Développement Cloud</span>  <span class="block xl:inline"> AWS avec .NET Core</span>
+        <span class="block text-indigo-600 xl:inline">Développement Cloud</span>  <span class="block xl:inline"> AWS avec .NET Core 6.0</span>
       </h1>
       <p class="mt-5 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-7 md:text-xl md:max-w-3xl">
         Je fournis des services de développement complets pour AWS avec .NET Core et le Front-End de votre choix (Angular, Vue, Svelte). J'ai 20 ans d'expérience avec ASP.NET/C#/SQL Server et 7 ans de déploiement d'applications en production sur AWS. 
