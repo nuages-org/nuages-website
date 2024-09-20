@@ -7,7 +7,7 @@
           </h1>
       <h1 class="text-2xl tracking-tight font-extrabold text-gray-900 sm:text-3xl md:text-4xl">
        
-        <span class="block text-indigo-600 xl:inline">Développement Cloud</span>  <span class="block xl:inline"> AWS avec .NET Core 6.0</span>
+        <span class="block text-indigo-600 xl:inline">Développement Cloud</span>  <span class="block xl:inline"> AWS avec .NET Core</span>
       </h1>
       <p class="mt-5 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-7 md:text-xl md:max-w-3xl">
         Je fournis des services de développement complets pour AWS avec .NET Core et le Front-End de votre choix (Angular, Vue, Svelte). J'ai 20 ans d'expérience avec ASP.NET/C#/SQL Server et 7 ans de déploiement d'applications en production sur AWS. 
@@ -27,7 +27,6 @@
         <div>
           <p class="mt-6 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl flex flex-row justify-center space-x-6 ">
             <a href="https://www.linkedin.com/in/martinmasse1402/" class="mt-3 hover:text-indigo-600"><i class="fab fa-linkedin fa-2x" ></i> </a>
-            <a href="https://twitter.com/martin_masse_qc" class="mt-3 hover:text-indigo-600"><i class="fab fa-twitter fa-2x" ></i> </a>
             <a href="https://github.com/nuages-io" class="mt-3 hover:text-indigo-600"><i class="fab fa-github fa-2x" ></i> </a>
           </p>
          
